@@ -1,0 +1,19 @@
+Melanie Wong
+melywong@ucsc.edu	
+Lab3
+
+lab3controller.py
+	Firewall code
+
+	Logic:
+	set idle = 50 sec, hard = 100 sec to limit entries from dump
+	search for ipv4
+		if not ipv4, search for arp
+		if arp, action == accept
+		else, action == drop
+	else (ipv4), search for tcp
+		if not tcp, action == drop
+		else(tcp), action == accept
+
+lab3.pdf
+	screenshot for pingall, dpctl dump-flows and iperf. Includes explanations for outputs of commands.

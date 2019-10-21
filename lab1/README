@@ -1,0 +1,16 @@
+Melanie Wong
+melywong@ucsc.edu
+melywong
+1585258
+
+melaniewong-lab1.pdf
+	Solutions to Prelab and Lab, including screenshots.
+
+melaniewong-script.sh
+	Shell script for #10 of Prelab. Prints even numbered lines of each filed in the current directory.
+
+melaniewong-topo.py
+	Mininet topology for Lab 1. Features 4 hosts connet to a switch.
+
+README (this file)
+	Describes contents of each file for Lab 1, and contains student ID info.
