@@ -1,3 +1,3 @@
 # CMPE150 Final Project
-## Implementing a Simple Router
-Implements routing between devices on different subnets, and firewalls for certain subnets.
+## Simulation of a multi-level production network using Mininet topology & Python
+Implements firewalls and routing between devices on different subnets using switches and a POX controller
